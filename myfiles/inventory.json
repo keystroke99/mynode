@@ -1,0 +1,66 @@
+{
+	"_id" : ObjectId("5a6782850bec18047c72e582"),
+	"instock" : [
+		{
+			"warehouse" : "A",
+			"qty" : 5
+		},
+		{
+			"warehouse" : "C",
+			"qty" : 15
+		}
+	],
+	"item" : "journal"
+},
+{
+	"_id" : ObjectId("5a6782850bec18047c72e583"),
+	"instock" : [
+		{
+			"warehouse" : "C",
+			"qty" : 5
+		}
+	],
+	"item" : "notebook"
+},
+{
+	"_id" : ObjectId("5a6782850bec18047c72e584"),
+	"instock" : [
+		{
+			"warehouse" : "A",
+			"qty" : 60
+		},
+		{
+			"warehouse" : "B",
+			"qty" : 15
+		}
+	],
+	"item" : "paper"
+},
+{
+	"_id" : ObjectId("5a6782850bec18047c72e585"),
+	"instock" : [
+		{
+			"warehouse" : "A",
+			"qty" : 40
+		},
+		{
+			"warehouse" : "B",
+			"qty" : 5
+		}
+	],
+	"item" : "planner"
+},
+{
+	"_id" : ObjectId("5a6782850bec18047c72e586"),
+	"instock" : [
+		{
+			"warehouse" : "B",
+			"qty" : 15
+		},
+		{
+			"warehouse" : "C",
+			"qty" : 35
+		}
+	],
+	"item" : "postcard"
+},

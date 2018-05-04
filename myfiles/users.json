@@ -1,0 +1,467 @@
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a676c177cb5fe06e4971fb1"),
+	"address" : "hyderabd",
+	"availableCredits" : "23",
+	"dateOfBirth" : "21-06-1990",
+	"email" : "test1@gmail.com",
+	"gender" : "male",
+	"location" : "hyderabad",
+	"loginType" : "app",
+	"mobileNumber" : "123456780",
+	"name" : "test1",
+	"password" : "$2a$10$ugc1epcFftnOUKAl4whrH.cNWSfSY6u9aa4T8ZBijhXR8hn1abWnq",
+	"preferences" : [
+		{
+			"Cricket" : [
+				"Indian Premier League",
+				"Ranji",
+				"International"
+			],
+			"id" : "Sports"
+		},
+		{
+			"Bollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"Tollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"id" : "Movies"
+		}
+	],
+	"role" : "celeb",
+	"username" : "test1"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a677e0ab635f91bb8ee7da7"),
+	"address" : "hyderabd",
+	"availableCredits" : "23",
+	"dateOfBirth" : "21-06-1990",
+	"email" : "test2@gmail.com",
+	"gender" : "male",
+	"location" : "hyderabad",
+	"loginType" : "app",
+	"mobileNumber" : "123456780",
+	"name" : "test2",
+	"password" : "$2a$10$cpQQ.9njls6clBYUNKOKOOP7HtYRLeYxVe8afHXroEOJrFlGhiHP2",
+	"preferences" : [
+		{
+			"Bollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"Tollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"id" : "Movies"
+		},
+		{
+			"Bollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"Tollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"id" : "Television"
+		}
+	],
+	"role" : "celeb",
+	"username" : "test2"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a677e23b635f91bb8ee7da8"),
+	"address" : "hyderabd",
+	"availableCredits" : "23",
+	"dateOfBirth" : "21-06-1990",
+	"email" : "test3@gmail.com",
+	"gender" : "male",
+	"location" : "hyderabad",
+	"loginType" : "app",
+	"mobileNumber" : "123456780",
+	"name" : "test3",
+	"password" : "$2a$10$p0VMflwEgZdo20m3YNyHvuTALWKpUeFTH1QF9EwvBT7dYfuMIah7W",
+	"preferences" : [
+		{
+			"Bollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"Tollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"id" : "Movies"
+		}
+	],
+	"role" : "celeb",
+	"username" : "test3"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a677e32b635f91bb8ee7da9"),
+	"address" : "hyderabd",
+	"availableCredits" : "23",
+	"dateOfBirth" : "21-06-1990",
+	"email" : "test4@gmail.com",
+	"gender" : "male",
+	"location" : "hyderabad",
+	"loginType" : "app",
+	"mobileNumber" : "123456780",
+	"name" : "test4",
+	"password" : "$2a$10$lzgWt.5NsV8GP01odqyuiOf7fWIK27r4EM0nkBdWzb6BWzgsQ3m9i",
+	"preferences" : [
+		{
+			"Bollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"Tollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"id" : "Movies"
+		}
+	],
+	"role" : "celeb",
+	"username" : "test4"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a677e45b635f91bb8ee7daa"),
+	"address" : "hyderabd",
+	"availableCredits" : "23",
+	"dateOfBirth" : "21-06-1990",
+	"email" : "test5@gmail.com",
+	"gender" : "male",
+	"location" : "hyderabad",
+	"loginType" : "app",
+	"mobileNumber" : "123456780",
+	"name" : "test5",
+	"password" : "$2a$10$6POabo7cVKHoBicA2ClcxOlTg9ZE3vDJmrV5aDF3Hgw4QBMmXebYW",
+	"preferences" : [
+		{
+			"Football" : [
+				"National",
+				"International"
+			],
+			"Cricket" : [
+				"Indian Premier League",
+				"Ranji",
+				"International"
+			],
+			"id" : "Sports"
+		}
+	],
+	"role" : "celeb",
+	"username" : "test5"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a677e5bb635f91bb8ee7dab"),
+	"address" : "hyderabd",
+	"availableCredits" : "23",
+	"dateOfBirth" : "21-06-1990",
+	"email" : "test6@gmail.com",
+	"gender" : "male",
+	"location" : "hyderabad",
+	"loginType" : "app",
+	"mobileNumber" : "123456780",
+	"name" : "test6",
+	"password" : "$2a$10$IBB8RRvwAqprBsgYs2RHq.Mld.ugq1xj9f0QT4IbCdGKTMuT1nbxS",
+	"preferences" : [
+		{
+			"Bollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"Tollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"id" : "Movies"
+		}
+	],
+	"role" : "celeb",
+	"username" : "test6"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a677e6cb635f91bb8ee7dac"),
+	"address" : "hyderabd",
+	"availableCredits" : "23",
+	"dateOfBirth" : "21-06-1990",
+	"email" : "test7@gmail.com",
+	"gender" : "male",
+	"location" : "hyderabad",
+	"loginType" : "app",
+	"mobileNumber" : "123456780",
+	"name" : "test7",
+	"password" : "$2a$10$AV8ABOVKA60xac1oBgkulufshKU/KDmujZB.KHIgOfKB8Mjs72X2K",
+	"preferences" : [
+		{
+			"Bollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"Tollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"id" : "Movies"
+		}
+	],
+	"role" : "celeb",
+	"username" : "test7"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a677eb0b635f91bb8ee7dad"),
+	"address" : "hyderabd",
+	"availableCredits" : "23",
+	"dateOfBirth" : "21-06-1990",
+	"email" : "test8@gmail.com",
+	"gender" : "male",
+	"location" : "hyderabad",
+	"loginType" : "app",
+	"mobileNumber" : "123456780",
+	"name" : "test8",
+	"password" : "$2a$10$cf4jw.HBZQwoSrFlfEqHeu6KDfYbQ66YU3M3AOTsLrcWfNiLBA8p2",
+	"preferences" : [
+		{
+			"Football" : [
+				"National",
+				"International"
+			],
+			"Cricket" : [
+				"Indian Premier League",
+				"Ranji",
+				"International"
+			],
+			"id" : "Sports"
+		},
+		{
+			"Bollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"Tollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"id" : "Movies"
+		},
+		{
+			"Bollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"Tollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"id" : "Television"
+		}
+	],
+	"role" : "celeb",
+	"username" : "test8"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a677ee5b635f91bb8ee7dae"),
+	"address" : "hyderabd",
+	"availableCredits" : "23",
+	"dateOfBirth" : "21-06-1990",
+	"email" : "test9@gmail.com",
+	"gender" : "male",
+	"location" : "hyderabad",
+	"loginType" : "app",
+	"mobileNumber" : "123456780",
+	"name" : "test9",
+	"password" : "$2a$10$Cepw/7MboKWjfnW.12e9kumTFwqR/MHkhcduzEwFRvDX1Fy.YJaYC",
+	"preferences" : [
+		{
+			"Football" : [
+				"National",
+				"International"
+			],
+			"Cricket" : [
+				"Indian Premier League",
+				"Ranji",
+				"International"
+			],
+			"id" : "Sports"
+		}
+	],
+	"role" : "celeb",
+	"username" : "test9"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a677ef8b635f91bb8ee7daf"),
+	"address" : "hyderabd",
+	"availableCredits" : "23",
+	"dateOfBirth" : "21-06-1990",
+	"email" : "test10@gmail.com",
+	"gender" : "male",
+	"location" : "hyderabad",
+	"loginType" : "app",
+	"mobileNumber" : "123456780",
+	"name" : "test10",
+	"password" : "$2a$10$Zs5YIxyL6lGBCjYeHu9H3uMBvRHQQflx.fEk7hySbDp7MNk7EBXUS",
+	"preferences" : [
+		{
+			"Bollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"Tollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"id" : "Movies"
+		}
+	],
+	"role" : "celeb",
+	"username" : "test10"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a677f0ab635f91bb8ee7db0"),
+	"address" : "hyderabd",
+	"availableCredits" : "23",
+	"dateOfBirth" : "21-06-1990",
+	"email" : "test11@gmail.com",
+	"gender" : "male",
+	"location" : "hyderabad",
+	"loginType" : "app",
+	"mobileNumber" : "123456780",
+	"name" : "test11",
+	"password" : "$2a$10$NBsPEF2PGayJkoCVf0pmPuuL2du7QyL68B7TMECtzBhGr8gkjTTcC",
+	"preferences" : [
+		{
+			"Bollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"Tollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"id" : "Television"
+		}
+	],
+	"role" : "celeb",
+	"username" : "test11"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a678020b635f91bb8ee7db1"),
+	"address" : "hyderabd",
+	"availableCredits" : "23",
+	"dateOfBirth" : "21-06-1990",
+	"email" : "test12@gmail.com",
+	"gender" : "male",
+	"location" : "hyderabad",
+	"loginType" : "app",
+	"mobileNumber" : "123456780",
+	"name" : "test12",
+	"password" : "$2a$10$kdjXcNjY4t90QST7TghZ2efkkOvQKFnp2465evzbfXBNNUeXwb1fS",
+	"preferences" : [
+		{
+			"Football" : [
+				"National",
+				"International"
+			],
+			"Cricket" : [
+				"Indian Premier League",
+				"Ranji",
+				"International"
+			],
+			"id" : "Sports"
+		},
+		{
+			"Bollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"Tollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"id" : "Movies"
+		},
+		{
+			"Bollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"Tollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"id" : "Television"
+		}
+	],
+	"role" : "celeb",
+	"username" : "test12"
+},
+{
+	"__v" : NumberInt("0"),
+	"_id" : ObjectId("5a678051b635f91bb8ee7db2"),
+	"address" : "hyderabd",
+	"availableCredits" : "23",
+	"dateOfBirth" : "21-06-1990",
+	"email" : "test13@gmail.com",
+	"gender" : "male",
+	"location" : "hyderabad",
+	"loginType" : "app",
+	"mobileNumber" : "123456780",
+	"name" : "test13",
+	"password" : "$2a$10$pWlBS85JDiBacKZTFcQFUOVJV4c8eIppFBooC.HcnIJyink6XD19q",
+	"preferences" : [
+		{
+			"Football" : [
+				"National",
+				"International"
+			],
+			"Cricket" : [
+				"Indian Premier League",
+				"Ranji",
+				"International"
+			],
+			"id" : "Sports"
+		},
+		{
+			"Bollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"Tollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"id" : "Movies"
+		},
+		{
+			"Bollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"Tollywood" : [
+				"Actor",
+				"Actress"
+			],
+			"id" : "Television"
+		}
+	],
+	"role" : "user",
+	"username" : "test13"
+},

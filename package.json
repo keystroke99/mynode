@@ -1,0 +1,43 @@
+{
+  "name": "mynode",
+  "version": "1.0.0",
+  "description": "REST API using NodeJS + ExpressJS + MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keystroke99/mynode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "expressjs"
+  ],
+  "author": "Rohini Kumar D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keystroke99/mynode/issues"
+  },
+  "homepage": "https://github.com/keystroke99/mynode#readme",
+  "dependencies": {
+    "aws-sdk": "^2.230.1",
+    "bcryptjs": "*",
+    "body-parser": "^1.18.2",
+    "busboy": "^0.2.14",
+    "cors": "^2.8.4",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.0",
+    "mandrill": "^0.1.0",
+    "mandrill-api": "^1.0.45",
+    "mongodb": "^3.0.1",
+    "mongoose": "^4.13.9",
+    "morgan": "^1.9.0",
+    "node-cron": "^1.2.1",
+    "nodemon": "^1.14.11",
+    "uuid": "^3.2.1"
+  }
+}

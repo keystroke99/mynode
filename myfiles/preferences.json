@@ -1,0 +1,26 @@
+[
+	
+    {
+        "id" : "Sports",
+        "Cricket" : ["Indian Premier League", "Ranji", "International"],
+        "Football" : ["National", "International"],
+        "Hockey": ["National", "International"],
+        "Kabaddi": ["National", "International", "Pro Kabaddi"],
+        "Polo": ["National", "International"]
+    },
+    {
+        "id"   : "Movies",
+        "Tollywood" : ["Actor", "Actress"],
+        "Bollywood" : ["Actor", "Actress"],
+        "Hollywood" : ["Actor", "Actress"]
+    },
+    {
+        "id"   : "Television",
+        "Categories" : ["Actor", "Actress"]
+    },
+    {
+        "id"   : "Politicians",
+        "Categories" : ["MLC", "MLA", "MP"]
+    }
+
+]

@@ -1,0 +1,25 @@
+<html>
+    <head>
+        
+    </head>
+    <body>
+        
+    </body>
+    <script>
+        var customer    =   {
+            name : "Rohini Kumar",
+            speak: function() {
+                return "My name is " + this.name;
+            },
+            address: {
+                street: "Madhapur",
+                city: "Hyderabad",
+                state: "Telangana"
+            }
+        }
+
+        document.write(customer.name + "<br>");
+        document.write(customer.speak() + "<br>");
+        document.write(customer.name + " lives at " + customer.address.street + ", " + customer.address.city + ", " + customer.address.state);
+    </script>
+</html>
